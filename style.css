@@ -1,0 +1,37 @@
+body { font-family: 'DM Sans', sans-serif; background:  rgb(10, 10, 10)}
+h1, h2 { font-family: 'Fraunces', serif; }
+html { scroll-behavior: smooth; }
+#nav-logo {color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 16px;}
+#nav-work {color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;}
+#hero-greeding {color: rgb(228, 200, 127); font-weight: 400; font-style: normal; font-size: 16px;}
+#hero-title {color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 32px;}
+#hero-subtitle {color: rgb(212, 212, 212); font-weight: 400; font-style: normal; font-size: 16px;}
+.project-card:hover img { transform: scale(1.05); }
+.project-card img { transition: transform 0.4s ease; }
+.show {display: block;}
+#work-heading {color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 24px;}
+#project-1-title {color: rgb(255, 255, 255); font-weight: 500; font-style: normal; font-size: 19px;}
+#project-1-desc {color: rgb(163, 163, 163); font-weight: 400; font-style: normal; font-size: 16px;}
+
+#project-2_title {color: rgb(255, 255, 255); font-weight: 500; font-style: normal; font-size: 19px;}
+#project-2-desc {color: rgb(163, 163, 163); font-weight: 400; font-style: normal; font-size: 16px;}
+
+#project-3-title {color: rgb(255, 255, 255); font-weight: 500; font-style: normal; font-size: 19px;}
+#project-3-desc {color: rgb(163, 163, 163); font-weight: 400; font-style: normal; font-size: 16px;}
+
+#about-heading {color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 24px;}
+#color-theme {color: rgb(228, 200, 127);}
+#about-text {color: rgb(212, 212, 212); font-weight: 400; font-style: normal; font-size: 16px;}
+#nav-about {color: rgb(228, 200, 127); font-weight: 400; font-style: normal; font-size: 16px;}
+
+
+#contact-heading {color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 24px;}
+#contact-text {color: rgb(212, 212, 212); font-weight: 400; font-style: normal; font-size: 16px;}
+
+#contactForm {display: none}
+#form-content {border: 1px rgb(228, 200, 127) solid; color: #fff}
+#form-submit {background: rgb(228, 200, 127); color: rgb(10, 10, 10); font-weight: 600; font-style: normal; font-size: 16px;}
+#contact-Btn {background: rgb(228, 200, 127); color: rgb(10, 10, 10); font-weight: 600; font-style: normal; font-size: 16px;}
+
+#nav-about {color: rgb(228, 200, 127); font-weight: 400; font-style: normal; font-size: 16px;}
+#footer-text {color: rgb(115, 115, 115); font-weight: 400; font-style: normal; font-size: 16px;}
